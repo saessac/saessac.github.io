@@ -61,3 +61,11 @@ body {
     display: flex;
     justify-content: space-around;
 }
+
+.sns li {
+    transition: 1s;
+}
+
+.sns li:hover {
+    scale: 1.1;
+}
