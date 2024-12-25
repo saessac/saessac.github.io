@@ -1,0 +1,9 @@
+{
+    "name": "My Website",
+    "short_name": "Website",
+    "description": "This is my awesome website!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+}
